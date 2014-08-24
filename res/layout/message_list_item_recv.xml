@@ -73,10 +73,7 @@
                     android:orientation="horizontal" >
 
                     <TextView android:id="@+id/date_view"
-<<<<<<< HEAD
-=======
                         android:background="@color/date_view_background"
->>>>>>> f63e78d... Mms Bubbles
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingRight="3dip"
